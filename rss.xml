@@ -4,7 +4,7 @@
         <description><![CDATA[Mercury Editions]]></description>
         <link>https://thegrid.ai/mercuryeditions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 22:08:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 22:12:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mercuryeditions/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/mercuryeditions/05f541a3-11d1-45fb-81e8-7c01d5952648/index.html</link>
             <guid isPermaLink="false">05f541a3-11d1-45fb-81e8-7c01d5952648</guid>
             <pubDate>Mon, 14 Mar 2016 21:55:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p></p>]]></description>
-            <link>https://thegrid.ai/mercuryeditions/1e86e2fa-799e-45a7-b379-b006a0707636/index.html</link>
-            <guid isPermaLink="false">1e86e2fa-799e-45a7-b379-b006a0707636</guid>
-            <pubDate>Mon, 14 Mar 2016 22:07:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
