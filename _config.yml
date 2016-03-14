@@ -1,0 +1,28 @@
+name: mercuryeditions
+favicon: null
+layout_spectrum: 0.8003988426644355
+typography_spectrum: 0.021877826657146215
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4613854286726564
+  lightness: 0.6875030987430364
+  saturation: 0.7519353688694537
+  rhythmicContrast: 0.3537529699970037
+purpose: []
