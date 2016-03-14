@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-14T20:48:17.315Z'
-dateModified: '2016-03-14T20:47:49.520Z'
+datePublished: '2016-03-14T21:47:28.452Z'
+dateModified: '2016-03-14T21:47:28.171Z'
 title: Mercury Editions
 author: []
+sourcePath: _posts/2016-03-14-mercury-editions.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-14-mercury-editions.md
-published: true
 url: mercury-editions/index.html
 _type: Article
 
