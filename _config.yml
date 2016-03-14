@@ -2,6 +2,7 @@ name: mercuryeditions
 favicon: null
 layout_spectrum: 0.8003988426644355
 typography_spectrum: 0.021877826657146215
+title: Mercury Editions
 cta:
   domain: null
   bucket: null
